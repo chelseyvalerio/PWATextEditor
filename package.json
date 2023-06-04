@@ -1,6 +1,9 @@
 {
   "name": "JATE",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
   "description": "A text editor that meets Progressive Web Application (PWA) criteria and includes a number of data persistence techniques in the event the browser does not support the app options. This app will run offline as well.",
   "main": "server.js",
   "scripts": {
